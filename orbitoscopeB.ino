@@ -1,12 +1,12 @@
 #include <AccelStepper.h> //accelstepper library
 
 // Stepper motor setup
-AccelStepper stepperX(1, 4, 5); // DIR:3, STEP: 2
-AccelStepper stepperY(1, 9, 10); // DIR:11, STEP: 10
-AccelStepper stepperZ(1, 7, 8); // DIR:13, STEP: 12
-AccelStepper stepperA(1, 6, 45); // DIR:9, STEP: 8
-AccelStepper stepperB(1, 11, 12); // DIR:5, STEP: 4
-AccelStepper stepperC(1, 43, 44); // DIR:7, STEP: 6
+AccelStepper stepperX(1, 4, 5); // DIR:5, STEP: 4
+AccelStepper stepperY(1, 9, 10); // DIR:10, STEP: 9
+AccelStepper stepperZ(1, 7, 8); // DIR:8, STEP: 7
+AccelStepper stepperA(1, 6, 45); // DIR:45, STEP: 6
+AccelStepper stepperB(1, 11, 12); // DIR:12, STEP: 11
+AccelStepper stepperC(1, 43, 44); // DIR:44, STEP: 43
 
 // Pin arrays for lasers and detectors
 int lasers[] = {36, 14, 51, 20, 50, 47, 49, 33, 34, 35}; // Laser pins
