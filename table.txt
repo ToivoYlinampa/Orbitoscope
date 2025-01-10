@@ -1,0 +1,853 @@
+15:08:23.804 -> Current X position is: 60435
+15:08:24.103 -> Current Y position is: 47211
+15:08:24.401 -> Current Z position is: 24612
+15:08:24.700 -> Current A position is: 0
+15:08:25.197 -> Current B position is: 14000
+15:08:25.429 -> Current C position is: 2135
+
+15:37:04.095 -> Current X position is: 44463
+15:37:04.426 -> Current Y position is: 69377
+15:37:04.725 -> Current Z position is: 25299
+15:37:05.023 -> Current A position is: 0
+15:37:05.520 -> Current B position is: 7400
+15:37:05.785 -> Current C position is: 2135
+
+15:18:46.970 -> Current X position is: 34504
+15:18:47.235 -> Current Y position is: 88842
+15:18:47.567 -> Current Z position is: 57820
+15:18:47.932 -> Current A position is: 0
+15:18:48.462 -> Current B position is: 500
+15:18:48.727 -> Current C position is: 2135
+
+15:20:46.134 -> Current X position is: 27780
+15:20:46.433 -> Current Y position is: 87207
+15:20:46.731 -> Current Z position is: 59404
+15:20:46.996 -> Current A position is: 1000
+15:20:47.460 -> Current B position is: 500
+15:20:47.725 -> Current C position is: 2135
+
+15:27:09.703 -> Current X position is: 41354
+15:27:09.967 -> Current Y position is: 68712
+15:27:10.299 -> Current Z position is: 24933
+15:27:10.597 -> Current A position is: 1000
+15:27:11.094 -> Current B position is: 7400
+15:27:11.359 -> Current C position is: 2135
+
+18:14:06.796 -> Current X position is: 59214
+18:14:07.094 -> Current Y position is: 50105
+18:14:07.393 -> Current Z position is: 23480
+18:14:07.724 -> Current A position is: 1000
+18:14:08.254 -> Current B position is: 14000
+18:14:08.552 -> Current C position is: 2135
+
+18:15:21.977 -> Current X position is: 58214
+18:15:22.276 -> Current Y position is: 51827
+18:15:22.541 -> Current Z position is: 23702
+18:15:22.806 -> Current A position is: 2000
+18:15:23.237 -> Current B position is: 14000
+18:15:23.502 -> Current C position is: 2135
+
+18:22:43.924 -> Current X position is: 37050
+18:22:44.223 -> Current Y position is: 67596
+18:22:44.554 -> Current Z position is: 25242
+18:22:44.886 -> Current A position is: 2000
+18:22:45.416 -> Current B position is: 7400
+18:22:45.714 -> Current C position is: 2135
+
+18:32:53.241 -> Current X position is: 22260
+18:32:53.573 -> Current Y position is: 83968
+18:32:53.937 -> Current Z position is: 59672
+18:32:54.268 -> Current A position is: 2000
+18:32:55.030 -> Current B position is: 500
+18:32:55.362 -> Current C position is: 2135
+
+20:29:18.295 -> Current X position is: 16735
+20:29:18.626 -> Current Y position is: 79982
+20:29:18.924 -> Current Z position is: 60721
+20:29:19.222 -> Current A position is: 3000
+20:29:19.753 -> Current B position is: 500
+20:29:20.051 -> Current C position is: 2135
+
+20:35:49.717 -> Current X position is: 35220
+20:35:50.015 -> Current Y position is: 67222
+20:35:50.347 -> Current Z position is: 25121
+20:35:50.612 -> Current A position is: 3000
+20:35:51.142 -> Current B position is: 7400
+20:35:51.473 -> Current C position is: 2135
+
+20:41:37.634 -> Current X position is: 58036
+20:41:37.966 -> Current Y position is: 55075
+20:41:38.297 -> Current Z position is: 23191
+20:41:38.595 -> Current A position is: 3000
+20:41:39.192 -> Current B position is: 14000
+20:41:39.490 -> Current C position is: 2135
+
+11:38:34.823 -> Current X position is: 57000
+11:38:35.088 -> Current Y position is: 58183
+11:38:35.419 -> Current Z position is: 23635
+11:38:35.717 -> Current A position is: 4000
+11:38:36.214 -> Current B position is: 14000
+11:38:36.513 -> Current C position is: 2135
+
+11:43:35.571 -> Current X position is: 31701
+11:43:35.902 -> Current Y position is: 65999
+11:43:36.234 -> Current Z position is: 26222
+11:43:36.532 -> Current A position is: 4000
+11:43:37.228 -> Current B position is: 7400
+11:43:37.659 -> Current C position is: 2135
+
+18:58:13.953 -> Current X position is: 11749
+18:58:14.284 -> Current Y position is: 75275
+18:58:14.582 -> Current Z position is: 61864
+18:58:14.880 -> Current A position is: 4000
+18:58:15.411 -> Current B position is: 500
+18:58:15.676 -> Current C position is: 2135
+
+11:55:19.694 -> Current X position is: 7305
+11:55:19.993 -> Current Y position is: 69610
+11:55:20.324 -> Current Z position is: 63038
+11:55:20.689 -> Current A position is: 5000
+11:55:21.319 -> Current B position is: 500
+11:55:21.650 -> Current C position is: 2135
+
+13:51:34.624 -> Current X position is: 30498
+13:51:34.922 -> Current Y position is: 64333
+13:51:35.220 -> Current Z position is: 25779
+13:51:35.518 -> Current A position is: 5000
+13:51:36.016 -> Current B position is: 7400
+13:51:36.314 -> Current C position is: 2135
+
+13:56:19.929 -> Current X position is: 55999
+13:56:20.227 -> Current Y position is: 60922
+13:56:20.591 -> Current Z position is: 23682
+13:56:20.889 -> Current A position is: 5000
+13:56:21.419 -> Current B position is: 14000
+13:56:21.750 -> Current C position is: 2135
+
+13:57:54.605 -> Current X position is: 53257
+13:57:54.903 -> Current Y position is: 62956
+13:57:55.235 -> Current Z position is: 23243
+13:57:55.533 -> Current A position is: 6000
+13:57:56.029 -> Current B position is: 14000
+13:57:56.295 -> Current C position is: 2135
+
+19:15:52.867 -> Current X position is: 26817
+19:15:53.166 -> Current Y position is: 61812
+19:15:53.497 -> Current Z position is: 26778
+19:15:53.828 -> Current A position is: 6000
+19:15:54.325 -> Current B position is: 7400
+19:15:54.590 -> Current C position is: 2135
+
+14:10:44.029 -> Current X position is: 4600
+14:10:44.394 -> Current Y position is: 63690
+14:10:44.725 -> Current Z position is: 63277
+14:10:45.056 -> Current A position is: 6000
+14:10:45.586 -> Current B position is: 500
+14:10:45.917 -> Current C position is: 2135
+
+14:13:06.165 -> Current X position is: 2598
+14:13:06.464 -> Current Y position is: 57116
+14:13:06.762 -> Current Z position is: 63721
+14:13:07.093 -> Current A position is: 7000
+14:13:07.789 -> Current B position is: 500
+14:13:08.087 -> Current C position is: 2135
+
+14:19:38.076 -> Current X position is: 25543
+14:19:38.407 -> Current Y position is: 59587
+14:19:38.771 -> Current Z position is: 26585
+14:19:39.102 -> Current A position is: 7000
+14:19:39.666 -> Current B position is: 7400
+14:19:39.964 -> Current C position is: 2135
+
+19:34:25.481 -> Current X position is: 51665
+19:34:25.779 -> Current Y position is: 64498
+19:34:26.044 -> Current Z position is: 23258
+19:34:26.343 -> Current A position is: 7000
+19:34:26.873 -> Current B position is: 14000
+19:34:27.138 -> Current C position is: 2135
+
+19:35:23.148 -> Current X position is: 48079
+19:35:23.446 -> Current Y position is: 65358
+19:35:23.745 -> Current Z position is: 23541
+19:35:24.043 -> Current A position is: 8000
+19:35:24.573 -> Current B position is: 14000
+19:35:24.838 -> Current C position is: 2135
+
+19:39:49.139 -> Current X position is: 22531
+19:39:49.470 -> Current Y position is: 55756
+19:39:49.801 -> Current Z position is: 27953
+19:39:50.133 -> Current A position is: 8000
+19:39:50.663 -> Current B position is: 7400
+19:39:50.961 -> Current C position is: 2135
+
+14:39:19.121 -> Current X position is: 1623
+14:39:19.418 -> Current Y position is: 49998
+14:39:19.717 -> Current Z position is: 64232
+14:39:20.015 -> Current A position is: 8000
+14:39:20.579 -> Current B position is: 500
+14:39:20.844 -> Current C position is: 2135
+
+14:42:59.006 -> Current X position is: 1622
+14:42:59.304 -> Current Y position is: 42820
+14:42:59.636 -> Current Z position is: 64788
+14:42:59.967 -> Current A position is: 9000
+14:43:00.529 -> Current B position is: 500
+14:43:00.860 -> Current C position is: 2135
+
+19:56:54.342 -> Current X position is: 22830
+19:56:54.607 -> Current Y position is: 52643
+19:56:54.939 -> Current Z position is: 27146
+19:56:55.237 -> Current A position is: 9000
+19:56:55.767 -> Current B position is: 7400
+19:56:56.066 -> Current C position is: 2135
+
+20:02:28.281 -> Current X position is: 45054
+20:02:28.580 -> Current Y position is: 65607
+20:02:28.911 -> Current Z position is: 23313
+20:02:29.276 -> Current A position is: 9000
+20:02:29.872 -> Current B position is: 14000
+20:02:30.171 -> Current C position is: 2135
+
+20:03:47.132 -> Current X position is: 42499
+20:03:47.430 -> Current Y position is: 65627
+20:03:47.728 -> Current Z position is: 23470
+20:03:48.059 -> Current A position is: 10000
+20:03:48.589 -> Current B position is: 14000
+20:03:48.888 -> Current C position is: 2135
+
+20:08:23.476 -> Current X position is: 20771
+20:08:23.741 -> Current Y position is: 48182
+20:08:24.073 -> Current Z position is: 28888
+20:08:24.338 -> Current A position is: 10000
+20:08:24.769 -> Current B position is: 7400
+20:08:25.034 -> Current C position is: 2135
+
+15:09:07.999 -> Current X position is: 2778
+15:09:08.297 -> Current Y position is: 35560
+15:09:08.628 -> Current Z position is: 65595
+15:09:08.926 -> Current A position is: 10000
+15:09:09.457 -> Current B position is: 500
+15:09:09.755 -> Current C position is: 2135
+
+15:11:47.986 -> Current X position is: 5443
+15:11:48.384 -> Current Y position is: 28786
+15:11:48.749 -> Current Z position is: 65816
+15:11:49.179 -> Current A position is: 11000
+15:11:49.809 -> Current B position is: 500
+15:11:50.140 -> Current C position is: 2135
+
+20:22:22.344 -> Current X position is: 21720
+20:22:22.676 -> Current Y position is: 44626
+20:22:23.007 -> Current Z position is: 28097
+20:22:23.372 -> Current A position is: 11000
+20:22:23.902 -> Current B position is: 7400
+20:22:24.233 -> Current C position is: 2135
+
+20:26:24.284 -> Current X position is: 40887
+20:26:24.648 -> Current Y position is: 65347
+20:26:24.980 -> Current Z position is: 24019
+20:26:25.312 -> Current A position is: 11000
+20:26:25.776 -> Current B position is: 14000
+20:26:26.041 -> Current C position is: 2135
+
+20:27:42.116 -> Current X position is: 38245
+20:27:42.414 -> Current Y position is: 63847
+20:27:42.679 -> Current Z position is: 23369
+20:27:42.977 -> Current A position is: 12000
+20:27:43.442 -> Current B position is: 14000
+20:27:43.740 -> Current C position is: 2135
+
+20:31:52.114 -> Current X position is: 22302
+20:31:52.446 -> Current Y position is: 40523
+20:31:52.744 -> Current Z position is: 28780
+20:31:53.042 -> Current A position is: 12000
+20:31:53.639 -> Current B position is: 7400
+20:31:53.970 -> Current C position is: 2135
+
+20:42:17.862 -> Current X position is: 8932
+20:42:18.193 -> Current Y position is: 21959
+20:42:18.491 -> Current Z position is: 66722
+20:42:18.823 -> Current A position is: 12000
+20:42:19.518 -> Current B position is: 500
+20:42:19.783 -> Current C position is: 2135
+
+20:48:10.361 -> Current X position is: 13629
+20:48:10.659 -> Current Y position is: 16199
+20:48:10.957 -> Current Z position is: 67237
+20:48:11.255 -> Current A position is: 13000
+20:48:11.818 -> Current B position is: 500
+20:48:12.149 -> Current C position is: 2135
+
+20:47:07.294 -> Current X position is: 24965
+20:47:07.592 -> Current Y position is: 37192
+20:47:07.924 -> Current Z position is: 28313
+20:47:08.222 -> Current A position is: 13000
+20:47:08.686 -> Current B position is: 7400
+20:47:08.984 -> Current C position is: 2135
+
+11:18:31.208 -> Current X position is: 37083
+11:18:31.472 -> Current Y position is: 62392
+11:18:31.770 -> Current Z position is: 23519
+11:18:32.102 -> Current A position is: 13000
+11:18:32.665 -> Current B position is: 14000
+11:18:32.964 -> Current C position is: 2135
+
+11:20:05.622 -> Current X position is: 35195
+11:20:05.921 -> Current Y position is: 59883
+11:20:06.219 -> Current Z position is: 23007
+11:20:06.518 -> Current A position is: 14000
+11:20:07.048 -> Current B position is: 14000
+11:20:07.379 -> Current C position is: 2135
+
+11:24:46.957 -> Current X position is: 27115
+11:24:47.222 -> Current Y position is: 33645
+11:24:47.520 -> Current Z position is: 28611
+11:24:47.818 -> Current A position is: 14000
+11:24:48.348 -> Current B position is: 7400
+11:24:48.646 -> Current C position is: 2135
+
+11:34:03.422 -> Current X position is: 19175
+11:34:03.753 -> Current Y position is: 10612
+11:34:04.051 -> Current Z position is: 68630
+11:34:04.383 -> Current A position is: 14000
+11:34:05.080 -> Current B position is: 500
+11:34:05.411 -> Current C position is: 2135
+
+11:36:49.067 -> Current X position is: 25109
+11:36:49.365 -> Current Y position is: 6443
+11:36:49.663 -> Current Z position is: 69727
+11:36:49.961 -> Current A position is: 15000
+11:36:50.491 -> Current B position is: 500
+11:36:50.757 -> Current C position is: 2135
+
+11:44:12.356 -> Current X position is: 30222
+11:44:12.687 -> Current Y position is: 30569
+11:44:13.019 -> Current Z position is: 28268
+11:44:13.284 -> Current A position is: 15000
+11:44:13.814 -> Current B position is: 7400
+11:44:14.113 -> Current C position is: 2135
+
+11:51:05.486 -> Current X position is: 34564
+11:51:05.817 -> Current Y position is: 57635
+11:51:06.149 -> Current Z position is: 22479
+11:51:06.414 -> Current A position is: 15000
+11:51:07.143 -> Current B position is: 14000
+11:51:07.474 -> Current C position is: 2135
+
+11:52:23.796 -> Current X position is: 33584
+11:52:24.061 -> Current Y position is: 54747
+11:52:24.525 -> Current Z position is: 22407
+11:52:24.857 -> Current A position is: 16000
+11:52:25.388 -> Current B position is: 14000
+11:52:25.653 -> Current C position is: 2135
+
+11:57:52.662 -> Current X position is: 33624
+11:57:53.027 -> Current Y position is: 27056
+11:57:53.326 -> Current Z position is: 29057
+11:57:53.624 -> Current A position is: 16000
+11:57:54.155 -> Current B position is: 7400
+11:57:54.454 -> Current C position is: 2135
+
+12:06:50.005 -> Current X position is: 31631
+12:06:50.302 -> Current Y position is: 3071
+12:06:50.634 -> Current Z position is: 71052
+12:06:50.899 -> Current A position is: 16000
+12:06:51.396 -> Current B position is: 500
+12:06:51.694 -> Current C position is: 2135
+
+12:08:53.807 -> Current X position is: 38353
+12:08:54.072 -> Current Y position is: 975
+12:08:54.371 -> Current Z position is: 72204
+12:08:54.636 -> Current A position is: 17000
+12:08:55.099 -> Current B position is: 500
+12:08:55.365 -> Current C position is: 2135
+
+12:16:52.408 -> Current X position is: 37111
+12:16:52.706 -> Current Y position is: 24732
+12:16:53.004 -> Current Z position is: 29667
+12:16:53.302 -> Current A position is: 17000
+12:16:53.865 -> Current B position is: 7400
+12:16:54.164 -> Current C position is: 2135
+
+12:22:59.469 -> Current X position is: 33546
+12:22:59.800 -> Current Y position is: 51900
+12:23:00.098 -> Current Z position is: 21776
+12:23:00.397 -> Current A position is: 17000
+12:23:00.960 -> Current B position is: 14000
+12:23:01.292 -> Current C position is: 2135
+
+12:25:08.436 -> Current X position is: 33174
+12:25:09.928 -> Current Y position is: 49000
+12:25:11.122 -> Current Z position is: 22822
+12:25:11.916 -> Current A position is: 18000
+12:25:12.777 -> Current B position is: 14000
+12:25:13.373 -> Current C position is: 2135
+
+12:33:10.433 -> Current X position is: 41338
+12:33:10.765 -> Current Y position is: 21891
+12:33:11.096 -> Current Z position is: 31108
+12:33:11.394 -> Current A position is: 18000
+12:33:11.991 -> Current B position is: 7400
+12:33:12.289 -> Current C position is: 2135
+
+12:42:31.554 -> Current X position is: 45330
+12:42:31.853 -> Current Y position is: -166
+12:42:32.117 -> Current Z position is: 73315
+12:42:32.416 -> Current A position is: 18000
+12:42:33.047 -> Current B position is: 500
+12:42:33.311 -> Current C position is: 2135
+
+12:44:41.376 -> Current X position is: 52297
+12:44:41.740 -> Current Y position is: -388
+12:44:42.105 -> Current Z position is: 74581
+12:44:42.105 -> Current A position is: 19000
+12:44:44.556 -> Current B position is: 500
+12:44:44.854 -> Current C position is: 2135
+
+12:52:49.530 -> Current X position is: 44557
+12:52:49.795 -> Current Y position is: 20355
+12:52:50.093 -> Current Z position is: 32113
+12:52:50.359 -> Current A position is: 19000
+12:52:51.187 -> Current B position is: 7400
+12:52:51.452 -> Current C position is: 2135
+
+12:59:14.629 -> Current X position is: 33574
+12:59:14.960 -> Current Y position is: 44768
+12:59:15.291 -> Current Z position is: 22268
+12:59:15.655 -> Current A position is: 19000
+12:59:16.317 -> Current B position is: 14000
+12:59:16.615 -> Current C position is: 2135
+
+13:01:00.840 -> Current X position is: 33896
+13:01:01.138 -> Current Y position is: 41191
+13:01:01.436 -> Current Z position is: 23414
+13:01:01.701 -> Current A position is: 20000
+13:01:02.298 -> Current B position is: 14000
+13:01:02.530 -> Current C position is: 2135
+
+13:06:18.504 -> Current X position is: 49499
+13:06:18.803 -> Current Y position is: 18350
+13:06:19.134 -> Current Z position is: 34050
+13:06:19.432 -> Current A position is: 20000
+13:06:19.963 -> Current B position is: 7400
+13:06:20.229 -> Current C position is: 2135
+
+17:06:34.653 -> Current X position is: 59389
+17:06:34.983 -> Current Y position is: 555
+17:06:35.281 -> Current Z position is: 75725
+17:06:35.613 -> Current A position is: 20000
+17:06:36.176 -> Current B position is: 500
+17:06:36.507 -> Current C position is: 2135
+
+17:09:40.304 -> Current X position is: 66016
+17:09:40.602 -> Current Y position is: 2535
+17:09:40.900 -> Current Z position is: 76187
+17:09:41.198 -> Current A position is: 21000
+17:09:41.761 -> Current B position is: 500
+17:09:42.026 -> Current C position is: 2135
+
+17:17:28.212 -> Current X position is: 52367
+17:17:28.543 -> Current Y position is: 18405
+17:17:28.907 -> Current Z position is: 34612
+17:17:29.205 -> Current A position is: 21000
+17:17:29.801 -> Current B position is: 7400
+17:17:30.099 -> Current C position is: 2135
+
+17:23:13.628 -> Current X position is: 33854
+17:23:13.959 -> Current Y position is: 37823
+17:23:14.258 -> Current Z position is: 24633
+17:23:14.522 -> Current A position is: 21000
+17:23:15.383 -> Current B position is: 14000
+17:23:15.681 -> Current C position is: 2135
+
+17:24:32.134 -> Current X position is: 34833
+17:24:32.399 -> Current Y position is: 34382
+17:24:32.697 -> Current Z position is: 25244
+17:24:33.028 -> Current A position is: 22000
+17:24:33.558 -> Current B position is: 14000
+17:24:33.823 -> Current C position is: 2135
+
+17:30:38.894 -> Current X position is: 56079
+17:30:39.987 -> Current Y position is: 18445
+17:30:41.047 -> Current Z position is: 35543
+17:30:42.041 -> Current A position is: 22000
+17:30:42.770 -> Current B position is: 7400
+17:30:43.366 -> Current C position is: 2135
+
+17:39:00.291 -> Current X position is: 72554
+17:39:00.622 -> Current Y position is: 5175
+17:39:00.920 -> Current Z position is: 77105
+17:39:01.251 -> Current A position is: 22000
+17:39:01.880 -> Current B position is: 500
+17:39:02.145 -> Current C position is: 2135
+
+17:48:58.108 -> Current X position is: 77117
+17:48:58.407 -> Current Y position is: 10040
+17:48:58.738 -> Current Z position is: 74882
+17:48:59.102 -> Current A position is: 23000
+17:48:59.732 -> Current B position is: 500
+17:48:59.997 -> Current C position is: 2135
+
+17:58:05.551 -> Current X position is: 59333
+17:58:05.883 -> Current Y position is: 19560
+17:58:06.214 -> Current Z position is: 35626
+17:58:06.545 -> Current A position is: 23000
+17:58:07.075 -> Current B position is: 7400
+17:58:07.373 -> Current C position is: 2135
+
+18:03:31.943 -> Current X position is: 35962
+18:03:32.275 -> Current Y position is: 31524
+18:03:32.539 -> Current Z position is: 26389
+18:03:32.871 -> Current A position is: 23000
+18:03:33.534 -> Current B position is: 14000
+18:03:33.832 -> Current C position is: 2135
+
+18:05:09.135 -> Current X position is: 37739
+18:05:09.400 -> Current Y position is: 28856
+18:05:09.732 -> Current Z position is: 27696
+18:05:09.997 -> Current A position is: 24000
+18:05:10.527 -> Current B position is: 14000
+18:05:10.792 -> Current C position is: 2135
+
+18:10:11.253 -> Current X position is: 63054
+18:10:11.584 -> Current Y position is: 21045
+18:10:11.882 -> Current Z position is: 36045
+18:10:12.213 -> Current A position is: 24000
+18:10:12.677 -> Current B position is: 7400
+18:10:12.942 -> Current C position is: 2135
+
+18:18:48.502 -> Current X position is: 82498
+18:18:48.800 -> Current Y position is: 14885
+18:18:49.065 -> Current Z position is: 74790
+18:18:49.396 -> Current A position is: 24000
+18:18:49.959 -> Current B position is: 500
+18:18:50.257 -> Current C position is: 2135
+
+18:21:11.141 -> Current X position is: 86333
+18:21:11.406 -> Current Y position is: 20580
+18:21:11.770 -> Current Z position is: 73338
+18:21:12.135 -> Current A position is: 25000
+18:21:12.732 -> Current B position is: 500
+18:21:13.030 -> Current C position is: 2135
+
+18:33:58.647 -> Current X position is: 40000
+18:33:58.978 -> Current Y position is: 26594
+18:33:59.309 -> Current Z position is: 28911
+18:33:59.607 -> Current A position is: 25000
+18:34:00.269 -> Current B position is: 14000
+18:34:00.534 -> Current C position is: 2135
+
+18:35:20.346 -> Current X position is: 42898
+18:35:20.711 -> Current Y position is: 24540
+18:35:21.075 -> Current Z position is: 30122
+18:35:21.406 -> Current A position is: 26000
+18:35:22.002 -> Current B position is: 14000
+18:35:22.267 -> Current C position is: 2135
+
+18:40:15.383 -> Current X position is: 68721
+18:40:15.747 -> Current Y position is: 25888
+18:40:16.078 -> Current Z position is: 35647
+18:40:16.442 -> Current A position is: 26000
+18:40:16.906 -> Current B position is: 7400
+18:40:17.171 -> Current C position is: 2135
+
+18:52:07.614 -> Current X position is: 89111
+18:52:07.912 -> Current Y position is: 27185
+18:52:08.210 -> Current Z position is: 71131
+18:52:08.541 -> Current A position is: 26000
+18:52:09.038 -> Current B position is: 500
+18:52:09.336 -> Current C position is: 2135
+
+18:54:57.463 -> Current X position is: 91556
+18:54:57.761 -> Current Y position is: 33979
+18:54:58.059 -> Current Z position is: 70016
+18:54:58.324 -> Current A position is: 27000
+18:54:58.854 -> Current B position is: 500
+18:54:59.119 -> Current C position is: 2135
+
+19:02:07.006 -> Current X position is: 69042
+19:02:07.337 -> Current Y position is: 29332
+19:02:07.635 -> Current Z position is: 33657
+19:02:07.933 -> Current A position is: 27000
+19:02:08.496 -> Current B position is: 7400
+19:02:08.761 -> Current C position is: 2135
+
+19:06:49.847 -> Current X position is: 45835
+19:06:50.145 -> Current Y position is: 23537
+19:06:50.476 -> Current Z position is: 30875
+19:06:50.807 -> Current A position is: 27000
+19:06:51.337 -> Current B position is: 14000
+19:06:51.602 -> Current C position is: 2135
+
+19:08:02.673 -> Current X position is: 49168
+19:08:02.971 -> Current Y position is: 22568
+19:08:03.269 -> Current Z position is: 32118
+19:08:03.534 -> Current A position is: 28000
+19:08:04.031 -> Current B position is: 14000
+19:08:04.296 -> Current C position is: 2135
+
+19:13:21.523 -> Current X position is: 72950
+19:13:21.788 -> Current Y position is: 32244
+19:13:22.119 -> Current Z position is: 34821
+19:13:22.417 -> Current A position is: 28000
+19:13:23.046 -> Current B position is: 7400
+19:13:23.377 -> Current C position is: 2135
+
+19:20:26.291 -> Current X position is: 92791
+19:20:27.351 -> Current Y position is: 41191
+19:20:28.212 -> Current Z position is: 68167
+19:20:29.006 -> Current A position is: 28000
+19:20:29.536 -> Current B position is: 500
+19:20:30.033 -> Current C position is: 2135
+
+12:38:40.541 -> Current X position is: 92793
+12:38:40.806 -> Current Y position is: 48636
+12:38:41.105 -> Current Z position is: 66550
+12:38:41.369 -> Current A position is: 29000
+12:38:41.833 -> Current B position is: 500
+12:38:42.098 -> Current C position is: 2135
+
+12:44:59.092 -> Current X position is: 72145
+12:44:59.356 -> Current Y position is: 36472
+12:44:59.621 -> Current Z position is: 31994
+12:44:59.919 -> Current A position is: 29000
+12:45:00.383 -> Current B position is: 7400
+12:45:00.681 -> Current C position is: 2135
+
+12:50:02.044 -> Current X position is: 50505
+12:50:02.309 -> Current Y position is: 22934
+12:50:02.607 -> Current Z position is: 32358
+12:50:02.839 -> Current A position is: 29000
+12:50:03.269 -> Current B position is: 14000
+12:50:03.534 -> Current C position is: 2135
+
+12:51:40.076 -> Current X position is: 54023
+12:51:40.341 -> Current Y position is: 22967
+12:51:40.639 -> Current Z position is: 32986
+12:51:40.904 -> Current A position is: 30000
+12:51:41.334 -> Current B position is: 14000
+12:51:41.600 -> Current C position is: 2135
+
+12:57:12.486 -> Current X position is: 74052
+12:57:12.817 -> Current Y position is: 40443
+12:57:13.115 -> Current Z position is: 32293
+12:57:13.380 -> Current A position is: 30000
+12:57:13.909 -> Current B position is: 7400
+12:57:14.208 -> Current C position is: 2135
+
+13:04:52.011 -> Current X position is: 90651
+13:04:52.343 -> Current Y position is: 55699
+13:04:52.607 -> Current Z position is: 63316
+13:04:52.872 -> Current A position is: 30000
+13:04:53.336 -> Current B position is: 500
+13:04:53.567 -> Current C position is: 2135
+
+13:08:21.892 -> Current X position is: 88319
+13:08:22.157 -> Current Y position is: 62887
+13:08:22.389 -> Current Z position is: 61572
+13:08:22.654 -> Current A position is: 31000
+13:08:23.150 -> Current B position is: 500
+13:08:23.382 -> Current C position is: 2135
+
+13:14:33.243 -> Current X position is: 71784
+13:14:33.541 -> Current Y position is: 44153
+13:14:33.872 -> Current Z position is: 29674
+13:14:34.236 -> Current A position is: 31000
+13:14:34.766 -> Current B position is: 7400
+13:14:34.997 -> Current C position is: 2135
+
+13:19:19.969 -> Current X position is: 54504
+13:19:20.300 -> Current Y position is: 23795
+13:19:20.565 -> Current Z position is: 33275
+13:19:20.896 -> Current A position is: 31000
+13:19:21.492 -> Current B position is: 14000
+13:19:21.757 -> Current C position is: 2135
+
+14:42:09.180 -> Current X position is: 57657
+14:42:09.511 -> Current Y position is: 25328
+14:42:09.843 -> Current Z position is: 32894
+14:42:10.141 -> Current A position is: 32000
+14:42:10.703 -> Current B position is: 14000
+14:42:11.001 -> Current C position is: 2135
+
+14:48:03.588 -> Current X position is: 72522
+14:48:03.919 -> Current Y position is: 48677
+14:48:04.251 -> Current Z position is: 29538
+14:48:04.516 -> Current A position is: 32000
+14:48:05.046 -> Current B position is: 7400
+14:48:05.344 -> Current C position is: 2135
+
+14:54:33.394 -> Current X position is: 84924
+14:54:33.725 -> Current Y position is: 69439
+14:54:34.056 -> Current Z position is: 60144
+14:54:34.354 -> Current A position is: 32000
+14:54:34.984 -> Current B position is: 500
+14:54:35.315 -> Current C position is: 2135
+
+14:57:07.595 -> Current X position is: 80812
+14:57:07.893 -> Current Y position is: 75591
+14:57:08.191 -> Current Z position is: 59367
+14:57:08.489 -> Current A position is: 33000
+14:57:08.986 -> Current B position is: 500
+14:57:09.251 -> Current C position is: 2135
+
+15:04:06.417 -> Current X position is: 69817
+15:04:06.682 -> Current Y position is: 52110
+15:04:06.980 -> Current Z position is: 27569
+15:04:07.344 -> Current A position is: 33000
+15:04:07.874 -> Current B position is: 7400
+15:04:08.172 -> Current C position is: 2135
+
+15:12:14.904 -> Current X position is: 59002
+15:12:15.168 -> Current Y position is: 27065
+15:12:15.466 -> Current Z position is: 32316
+15:12:15.698 -> Current A position is: 33000
+15:12:16.162 -> Current B position is: 14000
+15:12:16.393 -> Current C position is: 2135
+
+15:14:35.361 -> Current X position is: 61521
+15:14:35.693 -> Current Y position is: 29620
+15:14:35.957 -> Current Z position is: 31567
+15:14:36.255 -> Current A position is: 34000
+15:14:36.885 -> Current B position is: 14000
+15:14:37.149 -> Current C position is: 2135
+
+15:20:13.711 -> Current X position is: 68952
+15:20:14.009 -> Current Y position is: 56305
+15:20:14.307 -> Current Z position is: 27648
+15:20:14.606 -> Current A position is: 34000
+15:20:15.169 -> Current B position is: 7400
+15:20:15.434 -> Current C position is: 2135
+
+15:27:50.467 -> Current X position is: 75168
+15:27:50.799 -> Current Y position is: 80277
+15:27:51.196 -> Current Z position is: 57635
+15:27:51.627 -> Current A position is: 34000
+15:27:52.223 -> Current B position is: 500
+15:27:52.554 -> Current C position is: 2135
+
+15:31:38.545 -> Current X position is: 69357
+15:31:38.810 -> Current Y position is: 84611
+15:31:39.108 -> Current Z position is: 57343
+15:31:39.373 -> Current A position is: 35000
+15:31:40.069 -> Current B position is: 500
+15:31:40.334 -> Current C position is: 2135
+
+15:37:37.742 -> Current X position is: 64839
+15:37:38.007 -> Current Y position is: 59021
+15:37:38.371 -> Current Z position is: 25584
+15:37:38.702 -> Current A position is: 35000
+15:37:39.365 -> Current B position is: 7400
+15:37:39.762 -> Current C position is: 2135
+
+15:43:06.515 -> Current X position is: 61895
+15:43:06.846 -> Current Y position is: 32000
+15:43:07.144 -> Current Z position is: 30481
+15:43:07.442 -> Current A position is: 35000
+15:43:07.939 -> Current B position is: 14000
+15:43:08.204 -> Current C position is: 2135
+
+15:44:39.853 -> Current X position is: 63409
+15:44:40.151 -> Current Y position is: 35277
+15:44:40.449 -> Current Z position is: 29572
+15:44:40.747 -> Current A position is: 36000
+15:44:41.277 -> Current B position is: 14000
+15:44:41.542 -> Current C position is: 2135
+
+15:50:09.800 -> Current X position is: 62941
+15:50:10.131 -> Current Y position is: 62944
+15:50:10.462 -> Current Z position is: 25893
+15:50:10.760 -> Current A position is: 36000
+15:50:11.257 -> Current B position is: 7400
+15:50:11.522 -> Current C position is: 2135
+
+15:57:22.075 -> Current X position is: 63211
+15:57:22.406 -> Current Y position is: 87431
+15:57:22.770 -> Current Z position is: 56629
+15:57:23.068 -> Current A position is: 36000
+15:57:23.598 -> Current B position is: 500
+15:57:23.863 -> Current C position is: 2135
+
+15:59:42.875 -> Current X position is: 56789
+15:59:43.173 -> Current Y position is: 89071
+15:59:43.471 -> Current Z position is: 55816
+15:59:43.769 -> Current A position is: 37000
+15:59:44.332 -> Current B position is: 500
+15:59:44.597 -> Current C position is: 2135
+
+16:05:21.448 -> Current X position is: 58111
+16:05:21.779 -> Current Y position is: 64730
+16:05:22.111 -> Current Z position is: 24418
+16:05:22.442 -> Current A position is: 37000
+16:05:23.005 -> Current B position is: 7400
+16:05:23.270 -> Current C position is: 2135
+
+16:11:08.858 -> Current X position is: 62539
+16:11:09.156 -> Current Y position is: 37590
+16:11:09.454 -> Current Z position is: 28168
+16:11:09.719 -> Current A position is: 37000
+16:11:10.183 -> Current B position is: 14000
+16:11:10.414 -> Current C position is: 2135
+
+16:12:54.195 -> Current X position is: 62845
+16:12:54.526 -> Current Y position is: 41356
+16:12:54.824 -> Current Z position is: 27087
+16:12:55.155 -> Current A position is: 38000
+16:12:55.652 -> Current B position is: 14000
+16:12:55.884 -> Current C position is: 2135
+
+16:18:16.701 -> Current X position is: 54616
+16:18:17.099 -> Current Y position is: 67644
+16:18:17.529 -> Current Z position is: 24872
+16:18:17.893 -> Current A position is: 38000
+16:18:18.490 -> Current B position is: 7400
+16:18:18.788 -> Current C position is: 2135
+
+16:26:52.399 -> Current X position is: 49779
+16:26:52.697 -> Current Y position is: 89857
+16:26:52.995 -> Current Z position is: 55535
+16:26:53.260 -> Current A position is: 38000
+16:26:53.791 -> Current B position is: 500
+16:26:54.022 -> Current C position is: 2135
+
+16:30:39.714 -> Current X position is: 42957
+16:30:40.045 -> Current Y position is: 89834
+16:30:40.376 -> Current Z position is: 56088
+16:30:40.708 -> Current A position is: 39000
+16:30:41.171 -> Current B position is: 500
+16:30:41.469 -> Current C position is: 2135
+
+16:36:52.556 -> Current X position is: 50257
+16:36:52.854 -> Current Y position is: 68242
+16:36:53.186 -> Current Z position is: 24267
+16:36:53.484 -> Current A position is: 39000
+16:36:54.014 -> Current B position is: 7400
+16:36:54.279 -> Current C position is: 2135
+
+16:42:35.875 -> Current X position is: 61848
+16:42:36.207 -> Current Y position is: 44112
+16:42:36.571 -> Current Z position is: 25666
+16:42:36.969 -> Current A position is: 39000
+16:42:37.598 -> Current B position is: 14000
+16:42:37.896 -> Current C position is: 2135
+
+16:44:33.862 -> Current X position is: 61379
+16:44:34.160 -> Current Y position is: 47204
+16:44:34.525 -> Current Z position is: 25091
+16:44:34.856 -> Current A position is: 40000
+16:44:35.353 -> Current B position is: 14000
+16:44:35.651 -> Current C position is: 2135
+
+16:50:31.892 -> Current X position is: 45763
+16:50:32.190 -> Current Y position is: 69795
+16:50:32.455 -> Current Z position is: 25104
+16:50:32.720 -> Current A position is: 40000
+16:50:33.250 -> Current B position is: 7400
+16:50:33.481 -> Current C position is: 2135
+
+16:58:03.559 -> Current X position is: 36057
+16:58:03.857 -> Current Y position is: 88804
+16:58:04.155 -> Current Z position is: 56686
+16:58:04.453 -> Current A position is: 40000
+16:58:05.016 -> Current B position is: 500
+16:58:05.348 -> Current C position is: 2135
