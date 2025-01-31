@@ -9,7 +9,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 **Important Note:**  
 This software relies on `gphoto2` (command-line tool), which is licensed under the **GNU GPL**.  
 - `gphoto2` is **not included** in this repository. Users must install it separately and comply with its [GPL terms](https://www.gnu.org/licenses/gpl-3.0.html).  
-- Your use of `gphoto2` (via CLI) does not affect the MIT licensing of *this codebase*.  
 
 ## Third-Party Dependencies  
 This project uses the following libraries:  
