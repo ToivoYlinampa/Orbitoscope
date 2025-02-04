@@ -3,6 +3,14 @@ A six-axis macro-imaging robot to capture EDOF images for photogrammetrical use
 
 Developed in The University of Tartu / The Natural History Museum of Tartu, as a part of my Ph.D. studies. Paper coming soon.
 
+Python 3.10.13
+Pyserial 3.5
+Numpy 1.26.4
+OpenCV 4.9.0
+Gphoto2 2.5.28
+Libgphoto2 2.5.31
+Libgphoto2_port 0.12.2
+
 ## License  
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
 
