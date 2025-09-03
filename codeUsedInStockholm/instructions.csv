@@ -1,0 +1,8 @@
+type,axis,start_position,start_index,direction,end_index
+position,X,96292,,, 
+position,Y,87646,,, 
+position,Z,11760,,, 
+position,A,40000,,, 
+position,B,9894,,, 
+position,C,0,,,
+sequence,,,0,f,88
